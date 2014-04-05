@@ -1,2 +1,4 @@
 Hello Git!
-Octokitty is AWESOME! ;)
+Octokitty is WAY 2 cute! ;)
+
+Ready for commit
