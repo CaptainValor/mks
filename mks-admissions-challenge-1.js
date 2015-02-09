@@ -51,4 +51,8 @@ var result1 = decryptB("wazdee apple love bic nooo more end")
 console.log(result1) // This should be "welcome"
 
 var result2 = decryptB("bria loud fuzu antidote")
+<<<<<<< HEAD
 console.log(result2) // This should be "blue"
+=======
+console.log(result2) // This should be "blue"
+>>>>>>> FETCH_HEAD
