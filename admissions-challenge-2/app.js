@@ -89,7 +89,7 @@ $(document).ready(function() {
         	inventory.pot.sugar -= 3;
         	inventory.pot.flour -= 6;
         	inventory.product.cookies++;
-        $('div#ingredients span.flour').html(inventory.pot.sugar);
+        $('div#pot span.sugar').html(inventory.pot.sugar);
         $('div#pot span.flour').html(inventory.pot.flour);
         $('div#product span.cookies').html(inventory.product.cookies);
         } else {
