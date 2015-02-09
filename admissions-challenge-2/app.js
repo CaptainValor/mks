@@ -1,5 +1,3 @@
-
-
 $(document).ready(function() {
     // initialize quantities using an inventory object
 	var inventory = {
