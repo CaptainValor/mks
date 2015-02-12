@@ -1,3 +1,11 @@
+// MakerSquare Admissions Challenge 2
+// 
+// Submission by: Stephen Torrence
+//
+// stephen.torrence@gmail.com
+//
+//_________________________________
+
 $(document).ready(function() {
     // initialize quantities using an inventory object
 	var inventory = {
